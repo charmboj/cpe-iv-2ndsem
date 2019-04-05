@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Data Center </title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+<body>
+
+	<div id="wrapper">
+	
+
+	<!-- HEADER -->
+		<div id="header">
+
+			<div class="h-container">
+
+				<div class="h-content">
+					<h4>The world's largest resource for data centers,<br>customers, vendors and those seeking employment.</h4>	
+				</div>
+
+				<div class="h-logo">
+					<div class="h-data">
+						<ul>
+							<li>
+								<img src="img/data-logo.png" alt="data-logo">
+							</li>
+
+							<li>
+								<h1>4,347</h1>
+							</li>
+
+							<li>
+								<h3>Data<br>Centers</h3>
+							</li>
+						</ul>
+					</div>
+				</div>	
+			</div>
+		</div>
+
+	<!-- MAIN -->
+		<div id="main">
+			<div class="m-container">
+				<div class="main-panel">
+				<ul>
+					<li>
+						<img src="img/folder.png" alt="folder">
+
+						<h2>Directory</h2>
+
+						<h6>Map View, Locations,<br> Companies, Vendors</h6>
+						<br><br>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+						<br><br>
+						<a href="">Read More</a>
+					</li>
+
+					<li>
+						<img src="img/drive.png" alt="drive">
+
+						<h2>Real Estate</h2>
+
+						<h6>Listings, Recently Sold Market<br>Stats, List A Data Center</h6>
+						<br><br>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+						<br><br>
+						<a href="">Read More</a>
+					</li>
+
+					<li>
+						<img src="img/mouse.png" alt="mouse">
+
+						<h2>Employment</h2>
+
+						<h6>Data Center Jobs,<br>Post A Job</h6>
+						<br><br>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+						<br><br>
+						<a href="">Read More</a>
+					</li>
+
+					<li>
+						<img src="img/cloud.png" alt="cloud">
+
+						<h2>Deals</h2>
+
+						<h6>Colocation, Cloud, Dedicated<br>Servers, Hardware, Post A Deal</h6>
+						<br><br>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+						<br><br>
+						<a href="">Read More</a>
+					</li>
+				</ul>
+				</div>	
+			</div>
+		</div>
+
+	<!-- FOOTER -->
+		<div class="footer">
+
+			<div class="f-container">
+				<div class="f-titleholder">
+					<div class="left-triangle"></div>
+					<div class="right-triangle"></div>
+					<h3>Resources & Tools</h3>
+
+				</div>
+
+				<div class="f-content">
+					<ul>
+						<li>
+							<img src="img/calc.png" alt="calc">
+							<h5>Colocation<br>Calculator</h5>
+						</li>
+
+						<li>
+							<img src="img/clock-b.png" alt="clock-b">
+							<h5>Special Offers<br>& Discounts!</h5>
+						</li>
+
+						<li>
+							<img src="img/gear.png" alt="gear">
+							<h5>Consulting and<br>Network Design</h5>
+						</li>
+
+						<li>
+							<img src="img/phone.png" alt="phone">
+							<h5>Contact Us<br>Today!</h5>
+						</li>
+
+						<li>
+							<img src="img/cart.png" alt="cart">
+							<h5>Buy Cloud<br>Servers Online!</h5>
+						</li>
+
+						<li>
+							<img src="img/clock-a.png" alt="clock-a">
+							<h5>Online File Storage,<br>Backup and DR</h5>
+						</li>			
+					</ul>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+</body>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/main.js"></script>
+</html>
